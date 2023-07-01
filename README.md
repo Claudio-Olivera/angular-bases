@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 # GifsApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.3.
+=======
+# Bases de Angular
+
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.1.
+>>>>>>> 9ba083ad2b816e89c02b5fed685c7cb909bd87e8
 
 ## Development server
 
